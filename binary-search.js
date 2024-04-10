@@ -27,3 +27,4 @@ function binarySearch(arr, target) {
 
 
 module.exports = [linearSearch, binarySearch]
+//test
